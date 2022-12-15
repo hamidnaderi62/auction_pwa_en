@@ -13,6 +13,16 @@
             
           >
         </v-avatar>
+
+
+         <br/><br/>
+        <div class="text-center">
+          <strong>
+           Secure Auction
+          </strong>
+           <br/><br/>
+        </div>
+
       </div>
 
         <v-text-field  
